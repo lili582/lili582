@@ -1,5 +1,6 @@
 # 💫 About Me:
-My goal is to gain hands-on experience in programming and networking and master those fields. I believe my natural curiosity, ambition and drive will enable me to continuously expand my knowledge and skills.<br>C# -  studied independently, at a school and in the Magashim program<br>Python - studied independently, at a school and in the Magashim program<br>JavaScript - studied independently<br>C++ - studied independently, at a school and in the Magashim program<br>C -  studied in the Magashim program<br>SQL - studied independently, at a school and in the Magashim program<br>HTML - studied independently.<br><br><br>
+My goal is to gain hands-on experience in programming and networking and master those fields. 
+I believe my natural curiosity, ambition and drive will enable me to continuously expand my knowledge and skills.
 
 
 # 💻 Tech Stack:
